@@ -85,7 +85,8 @@ Password: password123
 > Halaman utama admin menampilkan tabel data leads dengan fitur tambah, edit, hapus, dan pencarian.
 
 ### Activity Logs
-<img width="1280" height="585" alt="Screenshot_2026-02-15_08-42-28" src="https://github.com/user-attachments/assets/ef55992d-9041-4893-9330-01f4142479ac" />
+<img width="1270" height="604" alt="Screenshot_2026-02-15_08-47-22" src="https://github.com/user-attachments/assets/e21b467a-23f4-46f1-a748-9eaf2d6f1af0" />
+
 
 > Catatan aktivitas admin: login, logout. Dilengkapi filter dan pencarian.
 ---
