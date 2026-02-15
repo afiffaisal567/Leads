@@ -82,7 +82,7 @@ Password: password123
 ### Dashboard
 <img width="1280" height="585" alt="Screenshot_2026-02-15_08-42-15" src="https://github.com/user-attachments/assets/8ff3ec53-45cf-4976-a5d3-73c539a55138" />
 
-> Halaman utama admin — menampilkan tabel data leads dengan fitur tambah, edit, hapus, dan pencarian.
+> Halaman utama admin menampilkan tabel data leads dengan fitur tambah, edit, hapus, dan pencarian.
 
 ### Activity Logs
 <img width="1280" height="585" alt="Screenshot_2026-02-15_08-42-28" src="https://github.com/user-attachments/assets/ef55992d-9041-4893-9330-01f4142479ac" />
